@@ -16,4 +16,13 @@ The Kaggle dataset used in this project can be found [here]('https://www.kaggle.
 ![image](https://github.com/AnshDevelops/Planet-Identifier/assets/152869575/e84fe802-3e26-4cc3-a910-f034766be254)
 
 
-The model has a very high accuracy of 99.99%
+The model has a very high accuracy of 99.99%.
+
+## Prerequisites
+To run the code locally, ensure that you have the following dependencies installed:
+
+Python (3.6 or higher)
+* Jupyter Notebook 
+* PyTorch
+* torchvision
+* fastai
